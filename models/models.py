@@ -1,7 +1,7 @@
-from utils.google_utils import *
-from utils.layers import *
-from utils.parse_config import *
-from utils import torch_utils
+from submodules.yolor_fork.utils.google_utils import *
+from submodules.yolor_fork.utils.layers import *
+from submodules.yolor_fork.utils.parse_config import *
+from submodules.yolor_fork.utils import torch_utils
 
 ONNX_EXPORT = False
 
